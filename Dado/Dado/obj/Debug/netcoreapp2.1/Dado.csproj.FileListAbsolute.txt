@@ -1,0 +1,11 @@
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\bin\Debug\netcoreapp2.1\Dado.deps.json
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\bin\Debug\netcoreapp2.1\Dado.runtimeconfig.json
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\bin\Debug\netcoreapp2.1\Dado.runtimeconfig.dev.json
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\bin\Debug\netcoreapp2.1\Dado.dll
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\bin\Debug\netcoreapp2.1\Dado.pdb
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\obj\Debug\netcoreapp2.1\Dado.csprojAssemblyReference.cache
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\obj\Debug\netcoreapp2.1\Dado.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\obj\Debug\netcoreapp2.1\Dado.AssemblyInfoInputs.cache
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\obj\Debug\netcoreapp2.1\Dado.AssemblyInfo.cs
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\obj\Debug\netcoreapp2.1\Dado.dll
+C:\Users\lab\Desktop\Dado\Dado\Dado\Dado\obj\Debug\netcoreapp2.1\Dado.pdb
