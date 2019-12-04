@@ -1,0 +1,10 @@
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\obj\Release\netcoreapp2.1\Dado.csprojAssemblyReference.cache
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\obj\Release\netcoreapp2.1\Dado.AssemblyInfoInputs.cache
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\obj\Release\netcoreapp2.1\Dado.AssemblyInfo.cs
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\bin\Release\netcoreapp2.1\Dado.deps.json
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\bin\Release\netcoreapp2.1\Dado.runtimeconfig.json
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\bin\Release\netcoreapp2.1\Dado.runtimeconfig.dev.json
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\bin\Release\netcoreapp2.1\Dado.dll
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\bin\Release\netcoreapp2.1\Dado.pdb
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\obj\Release\netcoreapp2.1\Dado.dll
+C:\Users\Dunia Méndez\Desktop\DADO\Dado\Dado\Dado\obj\Release\netcoreapp2.1\Dado.pdb
