@@ -4,6 +4,13 @@ namespace Dado
 {
     class Program
     {
+        int sup1 = 0;
+        int front1 = 0;
+        int izq1 = 0;
+        int infe1 = 0;
+        int back1 = 0;
+        int derecha1 = 0;
+
         public void dibujarDado(int caraSuperior, int caraFrontal, int caraIzquierda)
         {
             //Cara Superior
@@ -58,9 +65,39 @@ namespace Dado
             {
                 izq = 7 - izq;
             }
-            dibujarDado(sup, front, izq);   
+            dibujarDado(sup, front, izq);
+            sup1 = sup1 + sup;
+            front1 = front1 + front;
+            izq1 = izq1 + izq;
+            infe1 = infe1 + (7 - sup);
+            back1 = back1 + (7 - front);
+            derecha1 = derecha1 + (7 - izq);
             
             
+
+        }
+
+        public void girarDados()
+        {
+            sup1 = 0;
+            front1 = 0;
+            izq1 = 0;
+            infe1 = 0;
+            back1 = 0;
+            derecha1 = 0;
+            girarDado();
+            girarDado();
+            Console.WriteLine("-----------------------------------------------");
+        }
+
+        public void sumar()
+        {
+            Console.WriteLine("Las caras superiores suman: " + sup1);
+            Console.WriteLine("Las caras frontales suman: " + front1);
+            Console.WriteLine("Las caras de la izquierda suman: " + izq1);
+            Console.WriteLine("Las caras inferiores suman: " + infe1);
+            Console.WriteLine("Las caras de atras suman: " + back1);
+            Console.WriteLine("Las caras de la derecha suman: " + derecha1);
 
         }
 
@@ -71,11 +108,13 @@ namespace Dado
 
             Program variable = new Program();
             variable.dibujarDado(4, 5, 6);
+            variable.dibujarDado(4, 5, 6);
             while (Console.ReadKey().Key == ConsoleKey.Enter)
             {
                 Console.WriteLine("Nueva Visualizacion");
-                variable.girarDado();
-
+                //variable.girarDado();
+                variable.girarDados();
+                variable.sumar();
             }
 
 
