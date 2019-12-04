@@ -31,10 +31,22 @@ namespace Dado
         public void girarDado()
         {
             Random random = new Random();
-            int sup = 1;
+            int sup = random.Next(1,3);
             int front = 2;
             int izq = 3;
-            if(random.Next() % 2 == 0)
+            if(sup == 2)
+            {
+                front = 3;
+                izq = 1;
+
+            }
+            if (sup == 3)
+            {
+                front = 1;
+                izq = 2;
+
+            }
+            if (random.Next() % 2 == 0)
             {
                 sup = 7 - sup;
             }
