@@ -65,7 +65,10 @@ namespace Dado
             {
                 izq = 7 - izq;
             }
+
             dibujarDado(sup, front, izq);
+
+
             sup1 = sup1 + sup;
             front1 = front1 + front;
             izq1 = izq1 + izq;
